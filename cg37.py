@@ -1,0 +1,5 @@
+d = input()
+print(f'____|____'if int(input())==1 else '_________')
+print(f'\       /')
+print(f' \  {d}  /')
+print(f'  \___/')
