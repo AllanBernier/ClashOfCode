@@ -1,0 +1,1 @@
+a=input;print(sum(6 if i!=10 else 10 for i in range(int(a()))if a()=='PASS'))

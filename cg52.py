@@ -1,0 +1,1 @@
+s=input();print(26**s.count('L')*10**s.count('D'))

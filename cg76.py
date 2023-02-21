@@ -1,0 +1,6 @@
+s = input()
+a = s.count('A')
+c = s.count('C')
+t = s.count('T')
+g = s.count('G')
+print(f"{a} {c} {g} {t}")
